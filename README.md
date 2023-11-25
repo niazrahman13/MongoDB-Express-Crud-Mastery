@@ -1,4 +1,4 @@
-# MongoDB-Express-Crud-Mastery...
+# MongoDB-Express-Crud-Mastery
 
 It's basically a backend project. Not full stack, made with TypeScript,Express,Mongodb with Mongoose
 If anyone want to use,
