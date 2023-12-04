@@ -4,9 +4,9 @@ import mongoose from 'mongoose'
 import config from "./config";
 
 
-async function main() {
+function main() {
   try{
-    await mongoose.connect(config.url_local);
+  mongoose.connect(config.url_local);
 
   app.listen(3000,(()=>{
     console.log('Server Is Running')
